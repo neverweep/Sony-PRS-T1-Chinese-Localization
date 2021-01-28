@@ -1,0 +1,7 @@
++ \res\values-zh-rCN\strings.xml
++ \res\values-zh-rTW\strings.xml
+
+EbookContentManager\apk\smali\com\sony\drbd\ebook\mediascanner\MediaFile.smali
+EbookContentManager\apk\smali\com\sony\drbd\ebook\mediascanner\MediaScanner$MyMediaScannerClient.smali
+EbookContentManager\apk\smali\com\sony\drbd\ebook\mediascanner\thumbnail\BookThumbnail.smali
+EbookContentManager\apk\lib\armeabi\libEbookContentManagerNative.so

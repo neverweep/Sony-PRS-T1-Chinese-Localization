@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="english_ime_name">拉丁語言鍵盤</string>
+    <string name="english_ime_settings">鍵盤設定</string>
+    <string name="hit_correction">輸入錯誤修正</string>
+    <string name="hit_correction_summary">開啟輸入錯誤修正</string>
+    <string name="hit_correction_land">橫屏輸入錯誤</string>
+    <string name="hit_correction_land_summary">開啟輸入錯誤修正</string>
+    <string name="auto_correction">單詞建議</string>
+    <string name="auto_correction_summary">自動修正前一單詞</string>
+    <string name="prediction">單詞建議</string>
+    <string name="prediction_category">輸入建議設定</string>
+    <string name="prediction_summary">開啟輸入自動完成</string>
+    <string name="auto_complete_dialog_title">自動完成</string>
+    <string name="prediction_landscape">增大文本區</string>
+    <string name="prediction_landscape_summary">在橫屏視圖中隱藏輸入建議</string>
+    <string name="auto_cap">自動大寫</string>
+    <string name="auto_cap_summary">大寫每句起始字母</string>
+    <string name="auto_punctuate">自動標點</string>
+    <string name="quick_fixes">輸入錯誤修正</string>
+    <string name="quick_fixes_summary">自動修正單詞拼寫錯誤</string>
+    <string name="show_suggestions">顯示單詞建議</string>
+    <string name="show_suggestions_summary">輸入時顯示建議單詞</string>
+    <string name="auto_complete">自動完成</string>
+    <string name="auto_complete_summary">在高亮單詞中插入自動插入空格與標點</string>
+    <string name="added_word">%s：已存檔</string>
+    <string name="alternates_for_a">àáâãäåæ</string>
+    <string name="alternates_for_e">èéêë</string>
+    <string name="alternates_for_i">ìíîï</string>
+    <string name="alternates_for_o">òóôõöœø</string>
+    <string name="alternates_for_u">ùúûü</string>
+    <string name="alternates_for_s">§ß</string>
+    <string name="alternates_for_n">ñ</string>
+    <string name="alternates_for_c">ç</string>
+    <string name="alternates_for_y">ýÿ</string>
+    <string name="tip_long_press">按住對應鍵檢視重音符號（如ø、ö）</string>
+    <string name="tip_dismiss">按下“後退”鍵關閉鍵盤</string>
+    <string name="tip_access_symbols">輸入數位與符號</string>
+    <string name="tip_add_to_dictionary">按住最左邊的單詞將其加入到詞典</string>
+    <string name="touch_to_continue">點擊此提示繼續 »</string>
+    <string name="touch_to_finish">點擊關閉此提示，開始輸入！</string>
+    <string name="tip_to_open_keyboard"><b>鍵盤會在您點擊任意文本區時開啟</b></string>
+    <string name="tip_to_view_accents"><b>"按住對應鍵檢視重音符號
+（如ø、ö、ô、ó）"</b></string>
+    <string name="tip_to_open_symbols"><b>點擊此鍵切換到數位與標點輸入</b></string>
+    <string name="tip_to_close_symbols"><b>再次點擊此鍵返回字母輸入</b></string>
+    <string name="tip_to_launch_settings"><b>按住此鍵更改鍵盤設定，如自動完成</b></string>
+    <string name="tip_to_start_typing"><b>試一試！</b></string>
+    <string name="label_go_key">確定</string>
+    <string name="label_next_key">繼續</string>
+    <string name="label_done_key">完成</string>
+    <string name="label_send_key">發送</string>
+    <string name="label_symbol_key">\?123</string>
+    <string name="label_phone_key">123</string>
+    <string name="label_alpha_key">ABC</string>
+    <string name="label_alt_key">Alt</string>
+    <string name="open_the_keyboard"><b><font size="17">"開啟鍵盤
+"</font></b><font size="3">"
+"</font>點擊任意文本區。</string>
+    <string name="close_the_keyboard"><b><font size="17">"關閉鍵盤
+"</font></b><font size="3">"
+"</font>按下“後退”鍵。</string>
+    <string name="touch_and_hold"><b><font size="17">"按住對應鍵打開設定
+"</font></b><font size="3">"
+"</font>輸入標點與重音符號。</string>
+    <string name="keyboard_settings"><b><font size="17">"鍵盤設定
+"</font></b><font size="3">"
+"</font>"按住'"<b>?123</b>"'"</string>
+    <string name="popular_domain_0">.com</string>
+    <string name="popular_domain_1">.net</string>
+    <string name="popular_domain_2">.org</string>
+    <string name="popular_domain_3">.gov</string>
+    <string name="popular_domain_4">.edu</string>
+    <string name="inputMethod">輸入方式</string>
+    <string name="language_selection_title">輸入語言</string>
+    <string name="language_selection_summary">手指在空白鍵上滑動以便更改語言</string>
+    <string name="hint_add_to_dictionary">← 再次點擊以便存檔</string>
+    <string name="has_dictionary">詞典可用</string>
+    <string name="STR_UI_PARTS_PAGE" />
+    <string name="STR_UI_PARTS_OF">/</string>
+    <string name="STR_UI_NODE_TITLE_KEYBOARD">鍵盤</string>
+    <string name="STR_UI_KEYBOARD_US">美國英語</string>
+    <string name="STR_UI_KEYBOARD_UK">英國英語</string>
+    <string name="STR_UI_KEYBOARD_FRENCH">法語</string>
+    <string name="STR_UI_KEYBOARD_GERMAN">德語</string>
+    <string name="STR_UI_KEYBOARD_NETHERLANDS">荷蘭語</string>
+    <string name="STR_UI_KEYBOARD_CANADIAN_FRENCH">加拿大法語</string>
+    <string name="STR_UI_KEYBOARD_SPANISH">西班牙語</string>
+    <string name="STR_UI_KEYBOARD_ITALIAN">義大利語</string>
+    <string name="STR_UI_KEYBOARD_RUSSIAN">俄羅斯語</string>
+    <string name="STR_COUNTRY_AUSTRALIA">澳大利亞</string>
+    <string name="STR_COUNTRY_AUSTRIA">奧地利</string>
+    <string name="STR_COUNTRY_CANADA">加拿大</string>
+    <string name="STR_COUNTRY_FRANCE">法國</string>
+    <string name="STR_COUNTRY_GERMANY">德國</string>
+    <string name="STR_COUNTRY_IRELAND">愛爾蘭</string>
+    <string name="STR_COUNTRY_ITALY">義大利</string>
+    <string name="STR_COUNTRY_NETHERLANDS">荷蘭</string>
+    <string name="STR_COUNTRY_NEWZEALAND">紐西蘭</string>
+    <string name="STR_COUNTRY_SPAIN">西班牙</string>
+    <string name="STR_COUNTRY_UNITEDKINGDOM">英國</string>
+    <string name="STR_COUNTRY_UNITEDSTATES">美國</string>
+    <string name="STR_COUNTRY_OTHERS">其他</string>
+</resources>

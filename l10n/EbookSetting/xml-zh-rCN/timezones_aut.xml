@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timezones>
+    <timezone id="Australia/Perth">珀斯</timezone>
+    <timezone id="Australia/Adelaide">阿德莱德</timezone>
+    <timezone id="Australia/Darwin">达尔文</timezone>
+    <timezone id="Australia/Brisbane">布里斯班</timezone>
+    <timezone id="Australia/Sydney">悉尼</timezone>
+    <timezone id="Pacific/Auckland">奥克兰</timezone>
+</timezones>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_playlist_create_text_prompt">開啟鍵盤為播放清單命名，選擇存檔將其命名為“%s”。</string>
+    <string name="rename_playlist_same_prompt">開啟鍵盤為播放清單“%s”重命名</string>
+    <string name="rename_playlist_diff_prompt">開啟鍵盤為播放清單“%1$s”重命名，選擇存檔將其命名為“%2$s”。</string>
+</resources>

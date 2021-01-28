@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="STR_NODE_TITLE_SETTINGS">設定</string>
+    <string name="STR_NODE_TITLE_SLIDESHOW">幻燈片</string>
+    <string name="STR_NODE_TITLE_SLIDEDURATION">幻燈片切換間隔</string>
+    <string name="STR_UI_BUTTON_OK">確定</string>
+    <string name="STR_UI_UNITNAME_SECONDS">秒</string>
+    <string name="STR_UI_MENU_ORIENTATION">顯示方向</string>
+    <string name="STR_UI_MESSAGE_DEMO_MODE_2">此功能在演示模式中不可用</string>
+    <string name="DIALOGMSG_INFORM_CANNOT_SHOW_MARKUP1">此頁面無法顯示</string>
+    <string name="STR_UI_BUTTON_CANCEL">取消</string>
+    <string name="STR_UI_MESSAGE_EXTMEM_ERROR_1_1_SD">SD 卡可能已損壞，請嘗試更換另一張 SD 卡。</string>
+    <string name="STR_UI_MESSAGE_EXTMEM_ERROR_1_6_SD">SD 卡需要格式化，請點擊“設定”格式化 SD 卡。</string>
+    <string name="STR_UI_MSG_BOOK_VIEW_WAIT">請稍候...</string>
+    <string name="STR_NODE_TITLE_PICTURESETTINGS">圖像</string>
+    <string name="STR_UI_DIALOG_TITLE_ERROR">錯誤</string>
+    <string name="STR_UI_MESSAGE_LIMIT_MEMORY_CAPACITY">存儲空間不足，無法存檔。請刪除無用的檔案後重試。</string>
+    <string name="STR_UI_MESSAGE_INTERNAL_MEMORY_INVALID">內置快閃記憶體發生錯誤，請聯繫索尼客戶支援。</string>
+    <string name="STR_UI_MESSAGE_INTERNAL_MEMORY_PROBLEM">內置快閃記憶體發生錯誤，請格式化內置快閃記憶體。如果您仍然看到此資訊，請聯繫索尼客戶支援。</string>
+    <string name="STR_UI_MESSAGE_PICTURE_RESOLUTION_ERROR">此圖像無法顯示，不支援此解析度。</string>
+    <string name="STR_UI_MESSAGE_DATA_CORRUPT">此檔案可能已損壞，無法打開。</string>
+    <string name="STR_UI_MESSAGE_CAUSE_UNKNOWN_ERROR">發生未知錯誤</string>
+    <string name="STR_UI_MESSAGE_LIMIT_MEMORY_CAPACITY2">存儲空間不足，無法存檔。請刪除無用的檔案後重試。</string>
+</resources>

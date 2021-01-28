@@ -1,0 +1,21 @@
++ \res\values-zh-rCN\strings.xml
++ \res\values-zh-rTW\strings.xml
+
+
+* \res\values-de\strings.xml
+* \res\values-en\strings.xml
+* \res\values-es\strings.xml
+* \res\values-fr\strings.xml
+* \res\values-it\strings.xml
+* \res\values-nl\strings.xml
+* \res\values\public.xml
+* \smali\com\sony\drbd\ebook\Dictionary\R$string.smali
+* \smali\com\sony\drbd\ebook\Dictionary\R$attr.smali
+* \smali\com\sony\drbd\ebook\Dictionary\R$color.smali
+* \smali\com\sony\drbd\ebook\Dictionary\R$dimen.smali
+* \smali\com\sony\drbd\ebook\Dictionary\R$drawable.smali
+* \smali\com\sony\drbd\ebook\Dictionary\R$id.smali
+* \smali\com\sony\drbd\ebook\Dictionary\R$integer.smali
+* \smali\com\sony\drbd\ebook\Dictionary\R$layout.smali
+* \smali\com\sony\drbd\ebook\Dictionary\R$style.smali
+* \smali\com\sony\drbd\ebook\Dictionary\R.smali

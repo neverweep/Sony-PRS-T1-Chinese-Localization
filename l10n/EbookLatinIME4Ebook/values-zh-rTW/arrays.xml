@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>關閉</item>
+        <item>基本</item>
+        <item>高級</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timezones>
+    <timezone id="America/Los_Angeles">洛杉磯</timezone>
+    <timezone id="America/Denver">丹佛</timezone>
+    <timezone id="America/Chicago">芝加哥</timezone>
+    <timezone id="America/New_York">紐約</timezone>
+    <timezone id="America/Barbados">巴貝多</timezone>
+    <timezone id="America/St_Johns">紐芬蘭</timezone>
+</timezones>

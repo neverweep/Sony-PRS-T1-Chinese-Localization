@@ -1,0 +1,3 @@
++ \res\values-zh-rCN\strings.xml
++ \res\values-zh-rTW\strings.xml
+* \res\xml\sysconf_init.xml

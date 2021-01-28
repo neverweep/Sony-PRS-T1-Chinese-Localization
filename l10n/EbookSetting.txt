@@ -1,0 +1,42 @@
+* \res\values\strings.xml
+* \res\values\arrays.xml
+* \res\values-de\strings.xml
+* \res\values-es\strings.xml
+* \res\values-fr\strings.xml
+* \res\values-it\strings.xml
+* \res\values-nl\strings.xml
++ \res\values-zh-rCN\strings.xml
++ \res\xml-zh-rCN\timezones_aut.xml
++ \res\xml-zh-rCN\timezones_can.xml
++ \res\xml-zh-rCN\timezones_us.xml
++ \res\xml-zh-rCN\timezones.xml
++ \res\values-zh-rTW\strings.xml
++ \res\xml-zh-rTW\timezones_aut.xml
++ \res\xml-zh-rTW\timezones_can.xml
++ \res\xml-zh-rTW\timezones_us.xml
++ \res\xml-zh-rTW\timezones.xml
+* \smali\com\sony\drbd\ebook\setting\initialsetting\PreloadXmlTagDefines.smali *Ìí¼ÓchinaºÍtaiwan
+
+
+EbookSetting\apk\res\xml\general_setting_prefs.xml
+EbookSetting\apk\res\xml\general_setting_prefs_jp.xml
+EbookSetting\apk\res\xml\general_setting_prefs_ru.xml
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\general\GeneralSettingActivity.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\general\RecentViewSettingActivity.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R$array.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R$attr.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R$color.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R$drawable.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R$id.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R$integer.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R$layout.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R$raw.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R$style.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R$xml.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\SettingActivity.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\system\Identifier.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\general\LocalePicker.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\dateandtime\DateTimeSettings.smali
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\initialsetting\InitialDateTimeActivity.smali 
+EbookSetting\apk\smali\com\sony\drbd\ebook\setting\R$string.smali

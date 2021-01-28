@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timezones>
+    <timezone id="Pacific/Honolulu">檀香山</timezone>
+    <timezone id="America/Anchorage">安克雷奇</timezone>
+    <timezone id="America/Los_Angeles">洛杉矶</timezone>
+    <timezone id="America/Phoenix">凤凰城</timezone>
+    <timezone id="America/Denver">丹佛</timezone>
+    <timezone id="America/Chicago">芝加哥</timezone>
+    <timezone id="America/New_York">纽约</timezone>
+</timezones>

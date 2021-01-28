@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="date_format_values">
+        <item>@string/STR_NODE_TITLE_LANG_ACCORD</item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </array>
+    <array name="pageTurnEntryAndValues">
+        <item>@string/STR_UI_PAGETURN_TEXT_RIGHT_TO_LEFT</item>
+        <item>@string/STR_UI_PAGETURN_TEXT_LEFT_TO_RIGHT</item>
+    </array>
+    <array name="standbyScrEntries">
+        <item>@string/STR_UI_SETTING_SHOW_PHOTO</item>
+        <item>@string/STR_UI_SETTING_SHOW_BOOK</item>
+        <item>@string/STR_UI_SETTING_NONE</item>
+    </array>
+    <array name="standbyScrValues">
+        <item>@string/standby_screen_show_photo</item>
+        <item>@string/standby_screen_show_book</item>
+        <item>@string/standby_screen_show_none</item>
+    </array>
+    <string-array name="menuLang_uc_cew_code">
+        <item>en_US</item>
+        <item>fr_FR</item>
+        <item>de_DE</item>
+        <item>nl_NL</item>
+        <item>es_ES</item>
+        <item>it_IT</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+    </string-array>
+    <string-array name="menuLang_ru2_code">
+        <item>ru_RU</item>
+        <item>en_US</item>
+    </string-array>
+    <string-array name="menuLang_jp_code">
+        <item>ja_JP</item>
+        <item>en_US</item>
+    </string-array>
+    <array name="uc_cew_country_name_list">
+        <item>@string/STR_COUNTRY_UNITEDSTATES</item>
+        <item>@string/STR_COUNTRY_CANADA</item>
+        <item>@string/STR_COUNTRY_UNITEDKINGDOM</item>
+        <item>@string/STR_COUNTRY_AUSTRALIA</item>
+        <item>@string/STR_COUNTRY_AUSTRIA</item>
+        <item>@string/STR_COUNTRY_FRANCE</item>
+        <item>@string/STR_COUNTRY_GERMANY</item>
+        <item>@string/STR_COUNTRY_ITALY</item>
+        <item>@string/STR_COUNTRY_NETHERLANDS</item>
+        <item>@string/STR_COUNTRY_SPAIN</item>
+        <item>@string/STR_COUNTRY_OTHERS</item>
+    </array>
+    <array name="download_destination_Entries">
+        <item>@string/STR_UI_MESSAGE_LOCATIONINTERNAL</item>
+        <item>@string/STR_UI_MESSAGE_LOCATION_SD</item>
+    </array>
+    <array name="uc_cew_country_name_num_list">
+        <item>@string/STR_COUNTRY_OTHERS</item>
+        <item>@string/STR_COUNTRY_AUSTRIA</item>
+        <item>@string/STR_COUNTRY_CANADA</item>
+        <item>@string/STR_COUNTRY_FRANCE</item>
+        <item>@string/STR_COUNTRY_GERMANY</item>
+        <item>@string/STR_COUNTRY_IRELAND</item>
+        <item>@string/STR_COUNTRY_ITALY</item>
+        <item>@string/STR_COUNTRY_NETHERLANDS</item>
+        <item>@string/STR_COUNTRY_NEWZEALAND</item>
+        <item>@string/STR_COUNTRY_SPAIN</item>
+        <item>@string/STR_COUNTRY_UNITEDKINGDOM</item>
+        <item>@string/STR_COUNTRY_UNITEDSTATES</item>
+        <item>@string/STR_COUNTRY_AUSTRALIA</item>
+    </array>
+    <array name="keyboardLang_code_and_name">
+        <item>en_US</item>
+        <item>@string/STR_UI_KEYBOARD_US</item>
+        <item>en_GB</item>
+        <item>@string/STR_UI_KEYBOARD_UK</item>
+        <item>fr_FR</item>
+        <item>@string/STR_UI_KEYBOARD_FRENCH</item>
+        <item>fr_CA</item>
+        <item>@string/STR_UI_KEYBOARD_CANADIAN_FRENCH</item>
+        <item>de_DE</item>
+        <item>@string/STR_UI_KEYBOARD_GERMAN</item>
+        <item>nl_NL</item>
+        <item>@string/STR_UI_KEYBOARD_NETHERLANDS</item>
+        <item>es_ES</item>
+        <item>@string/STR_UI_KEYBOARD_SPANISH</item>
+        <item>it_IT</item>
+        <item>@string/STR_UI_KEYBOARD_ITALIAN</item>
+        <item>ru_RU</item>
+        <item>@string/STR_UI_KEYBOARD_RUSSIAN</item>
+    </array>
+</resources>

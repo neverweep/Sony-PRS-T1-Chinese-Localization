@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>總是</item>
+        <item>需要</item>
+        <item>關閉</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>最小</item>
+        <item>較小</item>
+        <item>標準</item>
+        <item>較大</item>
+        <item>最大</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>大</item>
+        <item>中</item>
+        <item>小</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+    </string-array>
+    <string-array name="search_engines">
+        <item>google</item>
+        <item>yahoo_tw</item>
+        <item>bing_zh_TW</item>
+    </string-array>
+</resources>

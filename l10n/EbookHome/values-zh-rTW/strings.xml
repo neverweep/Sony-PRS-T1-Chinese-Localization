@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_home_title">主頁</string>
+    <string name="STR_COUNTRY_RUSSIA">俄羅斯</string>
+    <string name="STR_COUNTRY_JAPAN">日本</string>
+    <string name="STR_NODE_TITLE_CONTINUEREADINGBOOK">繼續閱讀</string>
+    <string name="STR_NODE_TITLE_COLLECTIONS">分類</string>
+    <string name="STR_NODE_TITLE_AUDIO">音樂</string>
+    <string name="STR_NODE_TITLE_PICTURE">圖像</string>
+    <string name="STR_UI_PARTS_PAGE" />
+    <string name="STR_UI_PARTS_OF">/</string>
+    <string name="STR_UI_MESSAGE_CHARGING_NOT_CHARGING">充電未完成</string>
+    <string name="STR_UI_USB_MODE_GUIDE_CHECK_CONNECTION">"閱讀器未檢測到電源，無法充電。
+請檢查電腦是否打開，詳情請查閱使用者指南。"</string>
+    <string name="STR_UI_USB_MODE_GUIDE_TOO_HOT_COLD">"閱讀器處在過熱或過冷環境中，無法充電。
+請將閱讀器放置於室溫環境後重試。"</string>
+    <string name="STR_UI_MESSAGE_NOBOOK">無圖書</string>
+    <string name="STR_NODE_TITLE_SORTEDBYTITLE">按書名</string>
+    <string name="STR_NODE_TITLE_SORTEDBYDATE">按日期</string>
+    <string name="STR_NODE_TITLE_ALLNOTES">所有筆記</string>
+    <string name="STR_NODE_TITLE_SEARCHRESULTS">搜尋結果</string>
+    <string name="STR_NODE_TITLE_NOTEPAD_FREEHAND">繪圖</string>
+    <string name="STR_NODE_TITLE_NOTEPAD_TEXT">便箋</string>
+    <string name="STR_NODE_TITLE_PERIODICALS">期刊</string>
+    <string name="STR_NODE_TITLE_NEWDELIVERY">最近遞送</string>
+    <string name="STR_NODE_TITLE_DICTIONARY">詞典</string>
+    <string name="STR_HOME_CONTINUEREADING_LASTREAD">最近閱讀：</string>
+    <string name="STR_UI_PARTS_UNKNOWN">未知</string>
+    <string name="DIALOGMSG_DELETING">正在刪除...</string>
+    <string name="DIALOGMSG_REMOVING">正在刪除...</string>
+    <string name="STR_NODE_TITLE_NETWORK">網路</string>
+    <string name="STR_NODE_TITLE_BROWSER">流覽器</string>
+    <string name="STR_NODE_TITLE_READING">參考</string>
+    <string name="STR_NODE_TITLE_MORE">多媒體</string>
+    <string name="STR_NODE_TITLE_GOOGLE_BOOKS">Google 圖書</string>
+    <string name="STR_NODE_TITLE_PURCHASED">已購內容</string>
+    <string name="STR_NODE_TITLE_READER_STORE_NOTIFICATIONS">Reader Store 通知</string>
+    <string name="STR_UI_MESSAGE_CONNECTING">正在連接...</string>
+    <string name="STR_HOME_RECENTLY_ADDED_BOOK">最近添加</string>
+    <string name="STR_NODE_APP_BOOK">圖書</string>
+    <string name="STR_HOME_APP_READER_STORE">Reader Store</string>
+    <string name="STR_HOME_APP_SETTINGS">設定</string>
+    <string name="STR_UI_BUTTON_CLOSE">關閉</string>
+    <string name="STR_HOME_CATEGORY_OTHER">系統</string>
+    <string name="STR_COUNTRY_AUSTRALIA">澳大利亞</string>
+    <string name="STR_COUNTRY_AUSTRIA">奧地利</string>
+    <string name="STR_COUNTRY_CANADA">加拿大</string>
+    <string name="STR_COUNTRY_FRANCE">法國</string>
+    <string name="STR_COUNTRY_GERMANY">德國</string>
+    <string name="STR_COUNTRY_IRELAND">愛爾蘭</string>
+    <string name="STR_COUNTRY_ITALY">義大利</string>
+    <string name="STR_COUNTRY_NETHERLANDS">荷蘭</string>
+    <string name="STR_COUNTRY_NEWZEALAND">紐西蘭</string>
+    <string name="STR_COUNTRY_SPAIN">西班牙</string>
+    <string name="STR_COUNTRY_UNITEDKINGDOM">英國</string>
+    <string name="STR_COUNTRY_UNITEDSTATES">美國</string>
+    <string name="STR_COUNTRY_OTHERS">其他</string>
+    <string name="STR_UI_NODE_TITLE_TURN_ON_USB_STORAGE">資料傳輸模式</string>
+    <string name="STR_UI_MESSAGE_USB_STORAGE_IN_USE">請確認資料已傳輸完畢再斷開 USB 連接。</string>
+    <string name="STR_UI_DIALOG_TITLE_CONFIRMATION">確認</string>
+    <string name="STR_UI_MESSAGE_3RD_PARTY_DEACTIVATION">"閱讀器未授權，請使用受支援的閱讀器軟體對閱讀器授權。
+您可以運行安裝程式安裝閱讀器軟體（在閱讀器內置快閃記憶體中）。詳情請查閱使用者指南。
+安裝完成後，通過USB連接閱讀器到您的電腦，並按螢幕上的提示進行閱讀器授權。詳情請查閱閱讀器軟體“説明”功能表。
+"</string>
+    <string name="STR_UI_MESSAGE_PUBLIC_LIBRARY_DEACTIVATION">"如需流覽公共圖書館內容，您的閱讀器必須先通過 Adobe ID 授權。
+請參照 Reader Store 的嚮導註冊帳號，您一旦註冊帳號，您的閱讀器就會自動通過 Adobe ID 授權。"</string>
+    <string name="STR_HOME_PUBLIC_LIBRARY">公共圖書館</string>
+    <string name="STR_HOME_APP_THIRD_PARTY_STORE">書店</string>
+</resources>

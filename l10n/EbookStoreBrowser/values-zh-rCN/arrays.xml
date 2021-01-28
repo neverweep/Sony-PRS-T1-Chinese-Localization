@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>总是</item>
+        <item>需要</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>最小</item>
+        <item>较小</item>
+        <item>标准</item>
+        <item>较大</item>
+        <item>最大</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>大</item>
+        <item>中</item>
+        <item>小</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+    </string-array>
+    <string-array name="search_engines">
+        <item>baidu</item>
+        <item>google</item>
+        <item>yahoo_cn</item>
+        <item>bing_zh_CN</item>
+    </string-array>
+</resources>

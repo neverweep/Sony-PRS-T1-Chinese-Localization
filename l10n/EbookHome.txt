@@ -1,0 +1,16 @@
++ \res\values-zh-rCN\strings.xml
++ \res\values-zh-rTW\strings.xml
+* \smali\com\sony\drbd\ebook\home\activities\CommonPageActivity.smali *将CN和TW加入到最基本主屏幕界面列表
+
+EbookHome\apk\res\values\public.xml
+EbookHome\apk\res\values\strings.xml
+EbookHome\apk\smali\com\sony\drbd\ebook\home\R$color.smali
+EbookHome\apk\smali\com\sony\drbd\ebook\home\R$drawable.smali
+EbookHome\apk\smali\com\sony\drbd\ebook\home\R$id.smali
+EbookHome\apk\smali\com\sony\drbd\ebook\home\R$layout.smali
+EbookHome\apk\smali\com\sony\drbd\ebook\home\R$string.smali
+EbookHome\apk\smali\com\sony\drbd\ebook\home\R$style.smali
+EbookHome\apk\smali\com\sony\drbd\ebook\home\R.smali
+EbookHome\apk\smali\com\sony\drbd\ebook\home\activities\HomePageActivity.smali
+EbookHome\apk\smali\com\sony\drbd\ebook\home\activities\LauncherPageActivity$InstalledApplicationsAdapter.smali
+EbookHome\apk\smali\com\sony\drbd\ebook\home\activities\LauncherPageActivity.smali

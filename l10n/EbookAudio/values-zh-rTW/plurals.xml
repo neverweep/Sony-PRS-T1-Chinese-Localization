@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d 首音樂</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d / %1$d</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d 張專輯</item>
+        <item quantity="one">1 張專輯</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d 首音樂已刪除</item>
+        <item quantity="one">1 首音樂已刪除</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d 首音樂已添加到播放清單</item>
+        <item quantity="one">1 首音樂已添加到播放清單</item>
+    </plurals>
+</resources>

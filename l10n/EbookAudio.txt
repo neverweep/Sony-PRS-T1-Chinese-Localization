@@ -1,0 +1,12 @@
++ \res\values-zh-rCN\strings.xml
++ \res\values-zh-rCN\arrays.xml
++ \res\values-zh-rCN\plurals.xml
++ \res\values-zh-rCN-finger\strings.xml
++ \res\values-zh-rCN-keysexposed\strings.xml
++ \res\values-zh-rCN-keyshidden\strings.xml
++ \res\values-zh-rTW\strings.xml
++ \res\values-zh-rTW\arrays.xml
++ \res\values-zh-rTW\plurals.xml
++ \res\values-zh-rTW-finger\strings.xml
++ \res\values-zh-rTW-keysexposed\strings.xml
++ \res\values-zh-rTW-keyshidden\strings.xml

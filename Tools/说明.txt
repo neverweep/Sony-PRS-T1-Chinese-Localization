@@ -1,0 +1,43 @@
+﻿解包：
+	将需要解包的APK文件拷贝到 \batchtool\apks 内。
+	编辑 解包.cmd 将需要解包的文件(apk和odex)填入：有odex的使用unpack.cmd，只有apk的使用unpack_f.cmd。
+	执行 解包.cmd 获取资源文件，资源放在 \batchtool\"apk名" 内。
+
+打包：
+	编辑 打包.cmd 将需要解包的文件填入。
+	执行 打包.cmd 打包apk、签名并zipalign apk文件。
+
+推入：
+	确定以获取相应目录的777权限，并确定可写。
+	编辑 推入.cmd 将需要推入的文件填入。
+	执行 推入.cmd 将文件推入android系统。
+
+优化：
+        首先必须push dexopt-wrapper到 /system/bin
+	确定以获取相应目录和dexopt-wrapper的777权限。
+	编辑 优化odex.cmd 将需要优化的文件填入。
+	执行 优化odex.cmd 将apk优化出odex，存放在对应目录下。
+
+重新签名：
+	编辑 重新签名.cmd 将需要重新签名的文件填入。
+	执行 重新签名.cmd 将apk中的classes.dex删除，重新签名和zipalign。
+
+
+注：
+	1.需要编辑 bulid.cmd 、 unpack.cmd 、 push.cmd 、 resign.cmd设置ADK(打包、推送需要)和JRE的路径。
+	2.需要安装7zip。
+
+
+
+\apktool      解包打包apk工具
+\batchtool    【批处理工作，基本上所有工作都在此文件夹内进行】
+\install      具有ROOT权限的刷机包
+\md5          批量MD5校验
+\sign         apk签名工具
+\smali        解包odex为dex（重要：其framework文件夹内必须放入对应版本PRS T1的framework文件，）
+\dex2jar      将dex反编译为jar，再使用jd-gui查看其JAVA代码。
+
+
+此包中集成的软件版权均归原作者所有。
+
+感谢apktool、signapk、smali等开源工程的贡献者，感谢rupor、morkl、boroda等为T1做出贡献的人。
